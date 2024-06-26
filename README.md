@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<img src="https://cdn2.hexlet.io/assets/blog_promo-1dd16bc28d9a4aed4b07019a7934d27c258d6cf8ca53f803634fc38d1d406c57.png" alt="Пример изображения" width="600"/>
+<img src="https://cdn2.hexlet.io/assets/blog_promo-1dd16bc28d9a4aed4b07019a7934d27c258d6cf8ca53f803634fc38d1d406c57.png" alt="Пример изображения" width="550"/>
   </div>
 
 ## О себе
