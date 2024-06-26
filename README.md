@@ -1,9 +1,8 @@
 
 # Привет! Я Кирилл! 👋
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=iStarzG)
-<div align="center">
 ![iStarzG GitHub stats](https://github-readme-stats.vercel.app/api?username=iStarzG&show_icons=true&theme=radical)
-</div>
+
 <div align="center">
 <img src="https://cdn2.hexlet.io/assets/blog_promo-1dd16bc28d9a4aed4b07019a7934d27c258d6cf8ca53f803634fc38d1d406c57.png" alt="Пример изображения" width="600"/>
   </div>
