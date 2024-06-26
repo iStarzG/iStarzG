@@ -25,7 +25,7 @@
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Experienced-blue)
 
 ## Мои навыки
-- **Языки программирования:**
+- **Язык программирования:**
   - Java 
 - **Инструменты для автоматизации тестирования:**
   - Selenium 
