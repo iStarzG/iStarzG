@@ -3,7 +3,7 @@
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=iStarzG)
 ![iStarzG GitHub stats](https://github-readme-stats.vercel.app/api?username=iStarzG&show_icons=true&theme=radical)
 
-<img src="https://cdn2.hexlet.io/assets/blog_promo-1dd16bc28d9a4aed4b07019a7934d27c258d6cf8ca53f803634fc38d1d406c57.png" alt="Пример изображения" width="400"/>
+<img src="https://cdn2.hexlet.io/assets/blog_promo-1dd16bc28d9a4aed4b07019a7934d27c258d6cf8ca53f803634fc38d1d406c57.png" alt="Пример изображения" width="600"/>
 ## О себе
 Кирилл Бабанин Сергеевич, опытный тестировщик с навыками автоматизации и ручного тестирования. Моя цель — обеспечить высокое качество программного обеспечения через тщательное тестирование и автоматизацию.
 - Пол: муж.
