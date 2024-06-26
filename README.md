@@ -20,16 +20,16 @@
 
 ## Мои навыки
 - **Языки программирования:**
-  - Java ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+  - Java 
 - **Инструменты для автоматизации тестирования:**
-  - Selenium ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+  - Selenium 
   - Selenide
-  - TestNG ![TestNG](https://img.shields.io/badge/TestNG-%23FF6C37.svg?style=flat&logo=TestNG&logoColor=white)
-  - JUnit ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+  - TestNG 
+  - JUnit 
   - REST Assured
-  - Appium ![Appium](https://img.shields.io/badge/Appium-47217A?style=flat&logo=appium&logoColor=white)
-  - Maven ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
-  - Jenkins ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+  - Appium 
+  - Maven 
+  - Jenkins 
 - **Ручное тестирование:**
   - Функциональное тестирование
   - Тестирование UI/UX
