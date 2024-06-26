@@ -3,7 +3,6 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=iStarzG&color=blue" alt="GitHub Profile Views"/>
     <img src="https://github-readme-stats.vercel.app/api?username=iStarzG&show_icons=true&theme=radical" alt="Your Name's GitHub stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iStarzG&layout=compact&theme=radical" alt="Top Langs"/>
 </div>
 
 <div align="center">
