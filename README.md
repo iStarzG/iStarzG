@@ -43,9 +43,6 @@
   - JMeter ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apache-jmeter&logoColor=white)
 
 ## Связаться со мной
-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white) @iStarzG
-- ![Email](https://img.shields.io/badge/Email-%230077B5.svg?style=flat&logo=gmail&logoColor=white) kbsavensis@gmail.com
-- ![Phone](https://img.shields.io/badge/Phone-%2300B4CC.svg?style=flat&logo=phone&logoColor=white) +7 950 205 40 03
 - Telegram: @iStarzG
 - Эл. почта: kbsavensis@gmail.com
 - Телефон: +7 950 205 40 03
