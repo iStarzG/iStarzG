@@ -17,7 +17,7 @@
 
 ## Технические устройства для выполнения тестирования
 - Macbook Air, macOS
-- ПК Windows
+- ПК, Windows
 - iPhone, iOS
 
 
