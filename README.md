@@ -38,6 +38,21 @@
   - Postman (для тестирования API)
   - JMeter (для нагрузочного тестирования)
 
+<p align="center">
+<img width="6%" title="IntelliJ IDEA" src="media/screens/logo/Intelij_IDEA.svg">
+<img width="6%" title="Java" src="media/screens/logo/Java.svg">
+<img width="6%" title="Selenide" src="media/screens/logo/Selenide.svg">
+<img width="6%" title="Selenoid" src="media/screens/logo/Selenoid.svg">
+<img width="6%" title="Allure Report" src="media/screens/logo/Allure_Report.svg">
+<img width="5%" title="Allure TestOps" src="media/screens/logo/AllureTestOps.svg">
+<img width="6%" title="Gradle" src="media/screens/logo/Gradle.svg">
+<img width="6%" title="JUnit5" src="media/screens/logo/JUnit5.svg">
+<img width="6%" title="GitHub" src="media/screens/logo/GitHub.svg">
+<img width="6%" title="Jenkins" src="media/screens/logo/Jenkins.svg">
+<img width="6%" title="Telegram" src="media/screens/logo/Telegram.svg">
+<img width="5%" title="Jira" src="media/screens/logo/Jira.svg">
+</p>
+
 
 ## Связаться со мной
 - Telegram: @iStarzG
